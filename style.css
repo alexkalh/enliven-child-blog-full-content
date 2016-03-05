@@ -1,0 +1,17 @@
+/*
+Theme Name: Enliven Child Blog Full Content
+Author: Colours Theme
+Author URI: http://colourstheme.com
+Description: Child theme for Enliven theme
+Version: 1.0
+License: GNU General Public License v3
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Tags: two-columns, right-sidebar, custom-menu, editor-style, featured-images, post-formats, theme-options, translation-ready
+Requires at least: 4.4
+Tested up to: 4.4.2
+Text Domain: enliven-child-blog-full-content
+Domain Path: /languages/
+Template: enliven
+*/
+
+@import url("../enliven/style.css");
